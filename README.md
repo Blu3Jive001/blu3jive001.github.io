@@ -7,7 +7,6 @@
 👤 **Blu3Jive001**
 
 * Website: blu3jive001.github.io
-* Reddit: [u/Blu3Jive001](https://www.reddit.com/user/Blu3Jive01)
 * Github: [@Blu3Jive001](https://github.com/Blu3Jive001)
 
 ## Credit

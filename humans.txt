@@ -16,7 +16,7 @@
 ---------------------------oooooooosssyMMMMMMMMssssooooooosssmMMMMMMMMsss+--------------------------
 ---------------------------ooooooohNNNNMMMMMMMMNNNNyooooodNNNMMMMMMMMMNNNd--------------------------
 ---------------------------ooooooodMMMMMMMMMMMMMMMMhooooomMMMMMMMMMMMMMMMm--------------------------
----------------------------ooooooodMMMMMMMNysssssssoooooomMMMMMMMNssssssso--------------------------  Coded by Bluejive: Daniel Kristensen
+---------------------------ooooooodMMMMMMMNysssssssoooooomMMMMMMMNssssssso--------------------------  Coded by Bluejive: F.S
 ---------------------------ooooooodMMMMMMMN+++++++++ooooomMMMMMMMm+++++++:--------------------------  Credit to JavaCafe01, and MiguelRavila for the color
 ----------------------:///+ooooooodMMMMMMMN+++++++++ooooomMMMMMMMm+++++++/////----------------------  scheme and website layout
 ----------------------/ooooooooooodMMMMMMMN+++++++++ooooodMMMMMMMm++++++++oooo----------------------  Many thanks to the Unixporn and Winthemers community

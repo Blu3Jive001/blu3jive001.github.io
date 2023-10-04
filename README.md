@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my website repo 👋</h1>
 
-### 🌐 [Website](https://bluejive.cf)
+### 🌐 [Website](https://blu3jive001.github.io)
 
 ## Author
 
